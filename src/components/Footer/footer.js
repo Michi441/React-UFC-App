@@ -9,11 +9,11 @@ const Footer = () => {
   return(
     <div className="footer">
       <Link to="/" className="logo">
-        <img src="/images/nba_logo.png" alt="nba logo"/>
+        <img src="/images/ufc.png" alt="nba logo"/>
       </Link>
 
       <div className="right">
-        @NBA { CURRENT_YEAR } All Rights Reserved.
+        @UFC { CURRENT_YEAR } All Rights Reserved.
       </div>
 
     </div>
